@@ -1,0 +1,41 @@
+{
+    "elections": [
+        {
+            "electionId": "ELECT-1770003900188-843d3933",
+            "title": "Student council",
+            "description": "",
+            "candidates": [
+                {
+                    "id": "CAND-ELECT-1770003900188-843d3933-1",
+                    "name": "Alice",
+                    "party": "independent",
+                    "description": "",
+                    "imageUrl": null
+                },
+                {
+                    "id": "CAND-ELECT-1770003900188-843d3933-2",
+                    "name": "Dev",
+                    "party": "independent",
+                    "description": "",
+                    "imageUrl": null
+                }
+            ],
+            "status": "completed",
+            "startDate": "2026-02-02T09:15",
+            "endDate": "2026-02-02T09:20",
+            "createdBy": "OFFICER001",
+            "createdAt": "2026-02-02T03:45:00.189Z",
+            "updatedAt": "2026-02-02T04:32:10.727Z",
+            "settings": {
+                "allowMultipleVotes": false,
+                "requireMFA": false
+            },
+            "totalVotes": 1,
+            "results": {
+                "CAND-ELECT-1770003900188-843d3933-1": 1,
+                "CAND-ELECT-1770003900188-843d3933-2": 0
+            },
+            "completedAt": "2026-02-02T04:32:10.727Z"
+        }
+    ]
+}

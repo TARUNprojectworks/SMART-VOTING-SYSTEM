@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "voterId": "V1001",
+            "name": "Alice Johnson",
+            "role": "voter",
+            "registered": true,
+            "voted": false,
+            "vote": null,
+            "lastLogin": null
+        },
+        {
+            "voterId": "V1002",
+            "name": "Bob Smith",
+            "role": "voter",
+            "registered": true,
+            "voted": false,
+            "vote": null,
+            "lastLogin": null
+        },
+        {
+            "voterId": "V1003",
+            "name": "Carol Davis",
+            "role": "voter",
+            "registered": true,
+            "voted": false,
+            "vote": null,
+            "lastLogin": null
+        },
+        {
+            "voterId": "ADMIN001",
+            "name": "System Administrator",
+            "role": "admin",
+            "registered": true,
+            "voted": false,
+            "vote": null,
+            "lastLogin": null
+        }
+    ]
+}
